@@ -1,13 +1,28 @@
-
+/* 
 img.carros
 {
-    /* display: block;
+    display: block;
     margin-left: auto;
-    margin-right: auto; */
-    /* width: 35%; */
-    /* height: 500px; */
+    margin-right: auto;
+    width: 35%;
+    height: 500px;
 
+} */
+
+/* .text-cor{
+    color: black;
+} */
+
+.carousel-caption {
+    color:black;
+    background-color: rgba(155, 155, 155, 0.7);
+    font-weight: 900;
 }
+
+/* p.text-cor{
+    color: black;
+} */
+
 
 .slide-home {
     width: 30%;
